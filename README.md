@@ -37,8 +37,8 @@ I'm a Quantum Researcher and Engineer with a passion for pushing the boundaries 
 ## GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jagaa-1008&show_icons=true&theme=dark" height="200" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagaa-1008&layout=compact&theme=vision-friendly-dark" height="200" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api?username=jagaa-1008&show_icons=true&theme=dark" height="150" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagaa-1008&layout=compact&theme=vision-friendly-dark" height="150" alt="Top Langs">
 </div>
 
 ## 📫 Connect with Me
