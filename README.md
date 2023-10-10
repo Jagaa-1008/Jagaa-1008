@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there 👋, I'm [Your Name]!
 
-<!--
-**Jagaa-1008/Jagaa-1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!Profile views
 
-Here are some ideas to get you started:
+I'm a Embedded System Engineer from Tokyo. I'm passionate about Embedding your PC. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+!Coding
+
+## 📫 How to reach me:
+
+- 🌐 Visit my !Portfolio(https://your-portfolio.com)
+- 📧 !Email(mailto:your-email@example.com)
+- 💼 Connect with me on !LinkedIn(https://www.linkedin.com/in/jargalsaikhanartag)
+
+## 🔭 I’m currently working on:
+
+[Your Current Projects]
+
+## 🌱 I’m currently learning:
+
+[What You're Learning]
+
+## 👯 I’m looking to collaborate on:
+
+[What You Want To Collaborate On]
+
+## 💬 Ask me about:
+
+[What You Can Help With]
+
+## ⚡ Fun fact:
+
+[Fun Fact About You]
+
+!Your github stats
