@@ -2,8 +2,6 @@
 
 I'm a Quantum Researcher and Engineer with a passion for pushing the boundaries of quantum computing. Currently pursuing my Ph.D. in Quantum Computing, specializing in Quantum Annealing, while also working as an Embedded System Engineer. I thrive on solving complex problems and contributing to cutting-edge technology.
 
-![GitHub Profile Banner](https://via.placeholder.com/1500x300.png?text=Artag%20Jargalsaikhan%20-%20Quantum%20Researcher)
-
 ## About Me
 
 - 🌱 Currently researching Quantum Annealing and its real-world applications.
